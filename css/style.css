@@ -1,5 +1,7 @@
 
+
 /* GLOBAL */
+
 
 * {
 	margin: 0;
@@ -10,7 +12,13 @@ body {
 	font-family: sans-serif, Arial;
 }
 
+.wrapper {
+    background-color: #fff;
+    color: #1f2f2f;
+}
+
 /* NAVIGATION */
+
 
 nav {
 	text-align: right;
@@ -44,7 +52,9 @@ nav img {
 	margin: -11px 0 0 10px;
 }
 
+
 /* INTRO */
+
 
 #hero-image {
 	background-color: #025f02;
@@ -62,11 +72,12 @@ nav img {
 	height: 100%;
 }
 
+
 /* ICONS */
+
 
 #showcase {
 	text-align: center;
-	background-color: #F0F0F0;
 	overflow: hidden;
 }
 
@@ -82,11 +93,13 @@ nav img {
 	border-color: green;
 }
 
+
 /* DESCRIPTION */
+
 
 #plan {
 	text-align: center;
-	background-color: #F0F0F0;
+	background-color: #FFF;
 	padding: 25px;
 }
 
@@ -103,7 +116,9 @@ nav img {
 
 }
 
+
 /* FOOTER */
+
 
 footer {
 	text-align: center;
